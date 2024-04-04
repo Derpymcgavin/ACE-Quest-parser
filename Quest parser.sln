@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest parser", "Quest parser\Quest parser.csproj", "{630DC766-CCB6-49D3-9A0E-188DC9FE7692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630DC766-CCB6-49D3-9A0E-188DC9FE7692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630DC766-CCB6-49D3-9A0E-188DC9FE7692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630DC766-CCB6-49D3-9A0E-188DC9FE7692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630DC766-CCB6-49D3-9A0E-188DC9FE7692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576D66B3-DBD0-468A-80FB-73927FD7343D}
+	EndGlobalSection
+EndGlobal

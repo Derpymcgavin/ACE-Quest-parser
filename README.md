@@ -1,5 +1,8 @@
 # Quest parser
-This may have limited uses, but i made it to help me learn. 
-and i had a quest file with around 77 quests in it, and wanted it in seperate files.
+initial release,  
+this is in case you decided to add multiple quests to one sql file.
+to make them easier to edit and split them into sql files with questname.sql naming convention
 
-Once compiled, place combined quests.sql ( IT HAS TO BE NAMED quests.sql ) file in the same directory, and it will auto parse it into seperate quest named sql files in the new sub directory " Quests "
+place quests.sql in main folder with quest parser.exe, then run the program.
+creates files in sub folder named Quests. 
+move those into your content/sql/quests folder!
